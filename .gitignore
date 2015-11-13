@@ -1,0 +1,8 @@
+*.pyc
+__pycache__
+myenv
+db.sqlite3
+/static
+.DS_Store
+2015-11-08_confcall.txt
+python_intro.py
